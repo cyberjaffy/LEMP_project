@@ -27,7 +27,7 @@ Here’s a step-by-step guide on how to set up a LAMP stack (Linux, Nginx, MySQL
 
 6. Launch your ec2 instance
 
-   ![image 1](https://github.com/Captnfresh/ProjectLemp/blob/main/Project%20Lemp/image%201.jpg)
+   ![image 1](https://github.com/cyberjaffy/LEMP_project/blob/main/LEMP_project/image%201.jpg)
 
 ## Step 2 - Connect to the ec2 instance via ssh using Git bash
 
